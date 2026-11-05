@@ -1,0 +1,547 @@
+Carrinhos recebidos: 208 | total informado: 208
+Carrinhos com total acima de US$ 1.000:
+Carrinho #1 | Usu�rio: 1 | Itens: 12 | Total: US$ 13037.88
+Carrinho #3 | Usu�rio: 3 | Itens: 15 | Total: US$ 1794.85
+Carrinho #5 | Usu�rio: 5 | Itens: 12 | Total: US$ 1467.88
+Carrinho #6 | Usu�rio: 6 | Itens: 14 | Total: US$ 55453.86
+Carrinho #7 | Usu�rio: 7 | Itens: 14 | Total: US$ 1229.86
+Carrinho #8 | Usu�rio: 8 | Itens: 17 | Total: US$ 6337.83
+Carrinho #9 | Usu�rio: 9 | Itens: 10 | Total: US$ 29709.90
+Carrinho #11 | Usu�rio: 11 | Itens: 15 | Total: US$ 61831.75
+Carrinho #12 | Usu�rio: 12 | Itens: 18 | Total: US$ 37767.32
+Carrinho #17 | Usu�rio: 17 | Itens: 16 | Total: US$ 5531.34
+Carrinho #18 | Usu�rio: 18 | Itens: 10 | Total: US$ 128999.90
+Carrinho #19 | Usu�rio: 19 | Itens: 12 | Total: US$ 22142.88
+Carrinho #20 | Usu�rio: 20 | Itens: 12 | Total: US$ 4711.88
+Carrinho #21 | Usu�rio: 21 | Itens: 6 | Total: US$ 12939.94
+Carrinho #23 | Usu�rio: 23 | Itens: 9 | Total: US$ 2499.91
+Carrinho #24 | Usu�rio: 24 | Itens: 6 | Total: US$ 30299.94
+Carrinho #25 | Usu�rio: 25 | Itens: 15 | Total: US$ 1228.35
+Carrinho #26 | Usu�rio: 26 | Itens: 16 | Total: US$ 1111.84
+Carrinho #27 | Usu�rio: 27 | Itens: 15 | Total: US$ 111014.85
+Carrinho #28 | Usu�rio: 28 | Itens: 23 | Total: US$ 5944.77
+Carrinho #29 | Usu�rio: 29 | Itens: 16 | Total: US$ 2359.84
+Carrinho #30 | Usu�rio: 30 | Itens: 15 | Total: US$ 186110.85
+Carrinho #31 | Usu�rio: 31 | Itens: 12 | Total: US$ 1268.88
+Carrinho #33 | Usu�rio: 33 | Itens: 23 | Total: US$ 129057.77
+Carrinho #34 | Usu�rio: 34 | Itens: 8 | Total: US$ 1479.92
+Carrinho #41 | Usu�rio: 41 | Itens: 18 | Total: US$ 49649.82
+Carrinho #43 | Usu�rio: 43 | Itens: 12 | Total: US$ 1689.88
+Carrinho #44 | Usu�rio: 44 | Itens: 16 | Total: US$ 47055.84
+Carrinho #45 | Usu�rio: 45 | Itens: 21 | Total: US$ 132262.29
+Carrinho #46 | Usu�rio: 46 | Itens: 17 | Total: US$ 67607.33
+Carrinho #47 | Usu�rio: 47 | Itens: 13 | Total: US$ 50539.87
+Carrinho #49 | Usu�rio: 49 | Itens: 19 | Total: US$ 4208.81
+Carrinho #50 | Usu�rio: 50 | Itens: 7 | Total: US$ 13144.93
+Carrinho #51 | Usu�rio: 51 | Itens: 10 | Total: US$ 36519.90
+Carrinho #52 | Usu�rio: 52 | Itens: 18 | Total: US$ 134382.82
+Carrinho #53 | Usu�rio: 53 | Itens: 6 | Total: US$ 1079.94
+Carrinho #54 | Usu�rio: 54 | Itens: 5 | Total: US$ 10999.95
+Carrinho #57 | Usu�rio: 57 | Itens: 9 | Total: US$ 1269.91
+Carrinho #58 | Usu�rio: 58 | Itens: 3 | Total: US$ 1212.97
+Carrinho #59 | Usu�rio: 59 | Itens: 3 | Total: US$ 74029.97
+Carrinho #60 | Usu�rio: 60 | Itens: 8 | Total: US$ 7649.92
+Carrinho #62 | Usu�rio: 62 | Itens: 8 | Total: US$ 2851.92
+Carrinho #64 | Usu�rio: 64 | Itens: 19 | Total: US$ 6032.81
+Carrinho #65 | Usu�rio: 65 | Itens: 11 | Total: US$ 1717.89
+Carrinho #66 | Usu�rio: 66 | Itens: 7 | Total: US$ 2295.93
+Carrinho #69 | Usu�rio: 69 | Itens: 13 | Total: US$ 7185.87
+Carrinho #70 | Usu�rio: 70 | Itens: 17 | Total: US$ 3794.83
+Carrinho #71 | Usu�rio: 71 | Itens: 13 | Total: US$ 77905.87
+Carrinho #73 | Usu�rio: 73 | Itens: 16 | Total: US$ 21807.84
+Carrinho #74 | Usu�rio: 74 | Itens: 9 | Total: US$ 1562.41
+Carrinho #76 | Usu�rio: 76 | Itens: 14 | Total: US$ 37629.86
+Carrinho #78 | Usu�rio: 78 | Itens: 13 | Total: US$ 128964.87
+Carrinho #79 | Usu�rio: 79 | Itens: 13 | Total: US$ 1575.87
+Carrinho #80 | Usu�rio: 80 | Itens: 7 | Total: US$ 1504.93
+Carrinho #82 | Usu�rio: 82 | Itens: 16 | Total: US$ 1974.84
+Carrinho #83 | Usu�rio: 83 | Itens: 14 | Total: US$ 150061.36
+Carrinho #86 | Usu�rio: 86 | Itens: 10 | Total: US$ 45249.90
+Carrinho #89 | Usu�rio: 89 | Itens: 17 | Total: US$ 2458.83
+Carrinho #90 | Usu�rio: 90 | Itens: 16 | Total: US$ 6059.84
+Carrinho #93 | Usu�rio: 93 | Itens: 14 | Total: US$ 1809.86
+Carrinho #95 | Usu�rio: 95 | Itens: 24 | Total: US$ 154490.76
+Carrinho #97 | Usu�rio: 97 | Itens: 7 | Total: US$ 2013.93
+Carrinho #98 | Usu�rio: 98 | Itens: 22 | Total: US$ 1010.78
+Carrinho #100 | Usu�rio: 100 | Itens: 7 | Total: US$ 33003.13
+Carrinho #101 | Usu�rio: 101 | Itens: 12 | Total: US$ 1551.88
+Carrinho #104 | Usu�rio: 104 | Itens: 27 | Total: US$ 1120.23
+Carrinho #108 | Usu�rio: 108 | Itens: 4 | Total: US$ 1062.96
+Carrinho #109 | Usu�rio: 109 | Itens: 6 | Total: US$ 10089.94
+Carrinho #110 | Usu�rio: 110 | Itens: 15 | Total: US$ 37703.85
+Carrinho #111 | Usu�rio: 111 | Itens: 9 | Total: US$ 13899.91
+Carrinho #113 | Usu�rio: 113 | Itens: 13 | Total: US$ 1624.87
+Carrinho #114 | Usu�rio: 114 | Itens: 7 | Total: US$ 37699.93
+Carrinho #115 | Usu�rio: 115 | Itens: 13 | Total: US$ 4526.87
+Carrinho #116 | Usu�rio: 116 | Itens: 17 | Total: US$ 9141.33
+Carrinho #117 | Usu�rio: 117 | Itens: 14 | Total: US$ 10989.86
+Carrinho #122 | Usu�rio: 122 | Itens: 6 | Total: US$ 27089.94
+Carrinho #123 | Usu�rio: 123 | Itens: 21 | Total: US$ 84301.79
+Carrinho #125 | Usu�rio: 125 | Itens: 8 | Total: US$ 3364.92
+Carrinho #126 | Usu�rio: 126 | Itens: 16 | Total: US$ 1105.34
+Carrinho #127 | Usu�rio: 127 | Itens: 14 | Total: US$ 1023.86
+Carrinho #128 | Usu�rio: 128 | Itens: 15 | Total: US$ 10236.85
+Carrinho #129 | Usu�rio: 129 | Itens: 20 | Total: US$ 2246.30
+Carrinho #130 | Usu�rio: 130 | Itens: 5 | Total: US$ 30625.95
+Carrinho #131 | Usu�rio: 131 | Itens: 19 | Total: US$ 3702.71
+Carrinho #132 | Usu�rio: 132 | Itens: 19 | Total: US$ 13411.81
+Carrinho #133 | Usu�rio: 133 | Itens: 13 | Total: US$ 9559.87
+Carrinho #134 | Usu�rio: 134 | Itens: 19 | Total: US$ 2056.81
+Carrinho #137 | Usu�rio: 137 | Itens: 14 | Total: US$ 12442.86
+Carrinho #138 | Usu�rio: 138 | Itens: 7 | Total: US$ 15029.93
+Carrinho #141 | Usu�rio: 141 | Itens: 14 | Total: US$ 2991.36
+Carrinho #142 | Usu�rio: 142 | Itens: 20 | Total: US$ 2675.80
+Carrinho #143 | Usu�rio: 143 | Itens: 21 | Total: US$ 17609.79
+Carrinho #144 | Usu�rio: 144 | Itens: 15 | Total: US$ 4269.05
+Carrinho #145 | Usu�rio: 145 | Itens: 16 | Total: US$ 1153.84
+Carrinho #147 | Usu�rio: 147 | Itens: 17 | Total: US$ 2102.83
+Carrinho #149 | Usu�rio: 149 | Itens: 17 | Total: US$ 39227.33
+Carrinho #150 | Usu�rio: 150 | Itens: 8 | Total: US$ 1029.42
+Carrinho #152 | Usu�rio: 152 | Itens: 9 | Total: US$ 4119.91
+Carrinho #153 | Usu�rio: 153 | Itens: 15 | Total: US$ 4309.85
+Carrinho #155 | Usu�rio: 155 | Itens: 19 | Total: US$ 131224.81
+Carrinho #156 | Usu�rio: 156 | Itens: 14 | Total: US$ 2643.86
+Carrinho #158 | Usu�rio: 158 | Itens: 11 | Total: US$ 1169.89
+Carrinho #161 | Usu�rio: 161 | Itens: 18 | Total: US$ 2339.82
+Carrinho #162 | Usu�rio: 162 | Itens: 13 | Total: US$ 3236.87
+Carrinho #163 | Usu�rio: 163 | Itens: 14 | Total: US$ 1494.86
+Carrinho #165 | Usu�rio: 165 | Itens: 14 | Total: US$ 20196.86
+Carrinho #167 | Usu�rio: 167 | Itens: 9 | Total: US$ 48201.41
+Carrinho #169 | Usu�rio: 169 | Itens: 5 | Total: US$ 36799.95
+Carrinho #170 | Usu�rio: 170 | Itens: 14 | Total: US$ 1829.86
+Carrinho #173 | Usu�rio: 173 | Itens: 12 | Total: US$ 17785.88
+Carrinho #177 | Usu�rio: 177 | Itens: 9 | Total: US$ 2399.91
+Carrinho #178 | Usu�rio: 178 | Itens: 21 | Total: US$ 6785.79
+Carrinho #179 | Usu�rio: 179 | Itens: 16 | Total: US$ 27567.34
+Carrinho #181 | Usu�rio: 181 | Itens: 6 | Total: US$ 4707.94
+Carrinho #182 | Usu�rio: 182 | Itens: 20 | Total: US$ 3411.80
+Carrinho #183 | Usu�rio: 183 | Itens: 16 | Total: US$ 62954.84
+Carrinho #184 | Usu�rio: 184 | Itens: 2 | Total: US$ 14015.98
+Carrinho #185 | Usu�rio: 185 | Itens: 5 | Total: US$ 1404.95
+Carrinho #187 | Usu�rio: 187 | Itens: 12 | Total: US$ 10844.88
+Carrinho #189 | Usu�rio: 189 | Itens: 8 | Total: US$ 1289.92
+Carrinho #190 | Usu�rio: 190 | Itens: 8 | Total: US$ 56079.92
+Carrinho #191 | Usu�rio: 191 | Itens: 11 | Total: US$ 43489.89
+Carrinho #192 | Usu�rio: 192 | Itens: 20 | Total: US$ 70627.30
+Carrinho #194 | Usu�rio: 194 | Itens: 10 | Total: US$ 87090.90
+Carrinho #195 | Usu�rio: 195 | Itens: 18 | Total: US$ 44661.82
+Carrinho #196 | Usu�rio: 196 | Itens: 18 | Total: US$ 75209.82
+Carrinho #197 | Usu�rio: 197 | Itens: 7 | Total: US$ 58063.93
+Carrinho #198 | Usu�rio: 198 | Itens: 14 | Total: US$ 100565.86
+Carrinho #199 | Usu�rio: 199 | Itens: 6 | Total: US$ 28239.94
+Carrinho #200 | Usu�rio: 200 | Itens: 23 | Total: US$ 22694.77
+Carrinho #201 | Usu�rio: 201 | Itens: 13 | Total: US$ 128096.37
+Carrinho #202 | Usu�rio: 202 | Itens: 21 | Total: US$ 23114.79
+Carrinho #204 | Usu�rio: 204 | Itens: 16 | Total: US$ 25591.84
+Carrinho #205 | Usu�rio: 205 | Itens: 6 | Total: US$ 16011.94
+Carrinho #207 | Usu�rio: 207 | Itens: 21 | Total: US$ 22719.79
+T�tulos dos produtos com desconto acima de 15%:
+Apple iPhone Charger
+Samsung Galaxy Tab White
+Soft Drinks
+Rolex Datejust Women
+Vivo X21
+Samsung Galaxy S8
+Samsung Galaxy Tab White
+Hand Blender
+Apple MagSafe Battery Pack
+Watch Gold for Women
+Nike Baseball Cleats
+Rolex Datejust Women
+Oppo K1
+Realme C35
+Selfie Lamp with iPhone
+Apple HomePod Mini Cosmic Grey
+Kitchen Sieve
+Rolex Datejust Women
+Green Crystal Earring
+Knife
+White Faux Leather Backpack
+Vivo V9
+Oppo F19 Pro Plus
+Durango SXT RWD
+Eyeshadow Palette with Mirror
+Marni Red & Black Suit
+White Faux Leather Backpack
+Oppo K1
+Vivo X21
+Apple Airpods
+Marni Red & Black Suit
+Selfie Lamp with iPhone
+Samsung Galaxy Tab White
+Selfie Lamp with iPhone
+Golf Ball
+Chanel Coco Noir Eau De
+Golf Ball
+Corset With Black Skirt
+Chanel Coco Noir Eau De
+Bedside Table African Cherry
+Hand Blender
+Samsung Galaxy S8
+Kiwi
+Rolex Cellini Moonphase
+Selfie Stick Monopod
+Rolex Cellini Moonphase
+Rolex Cellini Moonphase
+Girl Summer Dress
+Black Aluminium Cup
+Apple Airpods
+Durango SXT RWD
+Cricket Wicket
+Olay Ultra Moisture Shea Butter Body Wash
+Corset With Black Skirt
+White Faux Leather Backpack
+White Faux Leather Backpack
+Watch Gold for Women
+Corset Leather With Skirt
+Vivo V9
+Green Oval Earring
+Samsung Galaxy Tab White
+Dress Pea
+Hand Blender
+Selfie Stick Monopod
+Kitchen Sieve
+Apple MagSafe Battery Pack
+Oppo K1
+Tennis Racket
+Corset Leather With Skirt
+Marni Red & Black Suit
+Man Plaid Shirt
+Watch Gold for Women
+Bedside Table African Cherry
+Eyeshadow Palette with Mirror
+Girl Summer Dress
+Vivo X21
+Girl Summer Dress
+Durango SXT RWD
+Black Aluminium Cup
+Dress Pea
+White Faux Leather Backpack
+Apple Airpods
+Kiwi
+Metal Baseball Bat
+Metal Baseball Bat
+Samsung Galaxy S8
+Dress Pea
+Blue & Black Check Shirt
+Longines Master Collection
+Samsung Galaxy S8
+Blue & Black Check Shirt
+Apple HomePod Mini Cosmic Grey
+Man Plaid Shirt
+Bedside Table African Cherry
+Durango SXT RWD
+Green Oval Earring
+Samsung Galaxy S8
+Dress Pea
+Selfie Stick Monopod
+Kitchen Sieve
+Soft Drinks
+Golf Ball
+Durango SXT RWD
+Girl Summer Dress
+Hand Blender
+Samsung Galaxy Tab White
+Blue Women's Handbag
+Black Aluminium Cup
+Selfie Lamp with iPhone
+Apple MagSafe Battery Pack
+Selfie Stick Monopod
+Green Oval Earring
+Apple iPhone Charger
+Apple Airpods
+Apple MagSafe Battery Pack
+Green Oval Earring
+Dress Pea
+Marni Red & Black Suit
+Oppo K1
+Kiwi
+Realme C35
+Vivo X21
+Corset With Black Skirt
+Tennis Racket
+Oppo F19 Pro Plus
+Apple HomePod Mini Cosmic Grey
+Green Oval Earring
+Apple iPhone Charger
+Metal Baseball Bat
+Apple Airpods
+Samsung Galaxy Tab White
+Selfie Lamp with iPhone
+Metal Baseball Bat
+Samsung Galaxy S8
+Tennis Racket
+Blue Women's Handbag
+Chanel Coco Noir Eau De
+Selfie Stick Monopod
+Eyeshadow Palette with Mirror
+Eyeshadow Palette with Mirror
+Watch Gold for Women
+Chanel Coco Noir Eau De
+Selfie Lamp with iPhone
+Vivo X21
+Durango SXT RWD
+Bedside Table African Cherry
+Green Crystal Earring
+Apple MagSafe Battery Pack
+Olay Ultra Moisture Shea Butter Body Wash
+Golf Ball
+Green Oval Earring
+Blue Women's Handbag
+Apple MagSafe Battery Pack
+Attitude Super Leaves Hand Soap
+Bedside Table African Cherry
+Hand Blender
+Red Shoes
+White Faux Leather Backpack
+Dress Pea
+Watch Gold for Women
+Oppo F19 Pro Plus
+Apple Airpods
+Kitchen Sieve
+Blue & Black Check Shirt
+Soft Drinks
+Realme C35
+Tennis Racket
+Corset With Black Skirt
+Realme C35
+Apple Airpods
+Blue & Black Check Shirt
+Attitude Super Leaves Hand Soap
+Apple MagSafe Battery Pack
+Kitchen Sieve
+Knife
+Vivo X21
+Watch Gold for Women
+Olay Ultra Moisture Shea Butter Body Wash
+Samsung Galaxy Tab White
+Eyeshadow Palette with Mirror
+Green Oval Earring
+Chanel Coco Noir Eau De
+Rolex Cellini Moonphase
+Apple Airpods
+Eyeshadow Palette with Mirror
+Selfie Stick Monopod
+Apple HomePod Mini Cosmic Grey
+Apple Airpods
+Rolex Datejust Women
+Soft Drinks
+Olay Ultra Moisture Shea Butter Body Wash
+Apple Airpods
+Carrinhos por economia, da maior para a menor:
+Carrinho #30 | Usu�rio: 30 | Itens: 15 | Total: US$ 186110.85 | Economia: US$ 30603.69
+Carrinho #95 | Usu�rio: 95 | Itens: 24 | Total: US$ 154490.76 | Economia: US$ 24707.45
+Carrinho #83 | Usu�rio: 83 | Itens: 14 | Total: US$ 150061.36 | Economia: US$ 24382.36
+Carrinho #155 | Usu�rio: 155 | Itens: 19 | Total: US$ 131224.81 | Economia: US$ 20680.92
+Carrinho #78 | Usu�rio: 78 | Itens: 13 | Total: US$ 128964.87 | Economia: US$ 19074.79
+Carrinho #201 | Usu�rio: 201 | Itens: 13 | Total: US$ 128096.37 | Economia: US$ 18900.48
+Carrinho #59 | Usu�rio: 59 | Itens: 3 | Total: US$ 74029.97 | Economia: US$ 12170.68
+Carrinho #46 | Usu�rio: 46 | Itens: 17 | Total: US$ 67607.33 | Economia: US$ 11505.66
+Carrinho #45 | Usu�rio: 45 | Itens: 21 | Total: US$ 132262.29 | Economia: US$ 10876.34
+Carrinho #27 | Usu�rio: 27 | Itens: 15 | Total: US$ 111014.85 | Economia: US$ 10518.49
+Carrinho #6 | Usu�rio: 6 | Itens: 14 | Total: US$ 55453.86 | Economia: US$ 8812.80
+Carrinho #198 | Usu�rio: 198 | Itens: 14 | Total: US$ 100565.86 | Economia: US$ 8257.54
+Carrinho #195 | Usu�rio: 195 | Itens: 18 | Total: US$ 44661.82 | Economia: US$ 7118.01
+Carrinho #191 | Usu�rio: 191 | Itens: 11 | Total: US$ 43489.89 | Economia: US$ 7090.89
+Carrinho #110 | Usu�rio: 110 | Itens: 15 | Total: US$ 37703.85 | Economia: US$ 6108.67
+Carrinho #123 | Usu�rio: 123 | Itens: 21 | Total: US$ 84301.79 | Economia: US$ 5787.42
+Carrinho #71 | Usu�rio: 71 | Itens: 13 | Total: US$ 77905.87 | Economia: US$ 5364.86
+Carrinho #196 | Usu�rio: 196 | Itens: 18 | Total: US$ 75209.82 | Economia: US$ 5203.02
+Carrinho #149 | Usu�rio: 149 | Itens: 17 | Total: US$ 39227.33 | Economia: US$ 4525.07
+Carrinho #86 | Usu�rio: 86 | Itens: 10 | Total: US$ 45249.90 | Economia: US$ 4440.69
+Carrinho #11 | Usu�rio: 11 | Itens: 15 | Total: US$ 61831.75 | Economia: US$ 4433.91
+Carrinho #114 | Usu�rio: 114 | Itens: 7 | Total: US$ 37699.93 | Economia: US$ 4376.83
+Carrinho #52 | Usu�rio: 52 | Itens: 18 | Total: US$ 134382.82 | Economia: US$ 4207.54
+Carrinho #18 | Usu�rio: 18 | Itens: 10 | Total: US$ 128999.90 | Economia: US$ 4021.09
+Carrinho #33 | Usu�rio: 33 | Itens: 23 | Total: US$ 129057.77 | Economia: US$ 3596.19
+Carrinho #192 | Usu�rio: 192 | Itens: 20 | Total: US$ 70627.30 | Economia: US$ 3565.64
+Carrinho #51 | Usu�rio: 51 | Itens: 10 | Total: US$ 36519.90 | Economia: US$ 3558.87
+Carrinho #24 | Usu�rio: 24 | Itens: 6 | Total: US$ 30299.94 | Economia: US$ 3519.90
+Carrinho #44 | Usu�rio: 44 | Itens: 16 | Total: US$ 47055.84 | Economia: US$ 3505.68
+Carrinho #194 | Usu�rio: 194 | Itens: 10 | Total: US$ 87090.90 | Economia: US$ 3475.04
+Carrinho #169 | Usu�rio: 169 | Itens: 5 | Total: US$ 36799.95 | Economia: US$ 3343.52
+Carrinho #41 | Usu�rio: 41 | Itens: 18 | Total: US$ 49649.82 | Economia: US$ 3309.73
+Carrinho #183 | Usu�rio: 183 | Itens: 16 | Total: US$ 62954.84 | Economia: US$ 3194.17
+Carrinho #190 | Usu�rio: 190 | Itens: 8 | Total: US$ 56079.92 | Economia: US$ 2836.97
+Carrinho #207 | Usu�rio: 207 | Itens: 21 | Total: US$ 22719.79 | Economia: US$ 2629.68
+Carrinho #202 | Usu�rio: 202 | Itens: 21 | Total: US$ 23114.79 | Economia: US$ 2569.24
+Carrinho #179 | Usu�rio: 179 | Itens: 16 | Total: US$ 27567.34 | Economia: US$ 2469.02
+Carrinho #165 | Usu�rio: 165 | Itens: 14 | Total: US$ 20196.86 | Economia: US$ 2445.25
+Carrinho #204 | Usu�rio: 204 | Itens: 16 | Total: US$ 25591.84 | Economia: US$ 2408.85
+Carrinho #122 | Usu�rio: 122 | Itens: 6 | Total: US$ 27089.94 | Economia: US$ 2401.44
+Carrinho #12 | Usu�rio: 12 | Itens: 18 | Total: US$ 37767.32 | Economia: US$ 2356.53
+Carrinho #197 | Usu�rio: 197 | Itens: 7 | Total: US$ 58063.93 | Economia: US$ 2315.03
+Carrinho #50 | Usu�rio: 50 | Itens: 7 | Total: US$ 13144.93 | Economia: US$ 2292.81
+Carrinho #143 | Usu�rio: 143 | Itens: 21 | Total: US$ 17609.79 | Economia: US$ 2145.41
+Carrinho #111 | Usu�rio: 111 | Itens: 9 | Total: US$ 13899.91 | Economia: US$ 2054.78
+Carrinho #167 | Usu�rio: 167 | Itens: 9 | Total: US$ 48201.41 | Economia: US$ 1998.69
+Carrinho #21 | Usu�rio: 21 | Itens: 6 | Total: US$ 12939.94 | Economia: US$ 1973.91
+Carrinho #205 | Usu�rio: 205 | Itens: 6 | Total: US$ 16011.94 | Economia: US$ 1936.08
+Carrinho #132 | Usu�rio: 132 | Itens: 19 | Total: US$ 13411.81 | Economia: US$ 1888.58
+Carrinho #138 | Usu�rio: 138 | Itens: 7 | Total: US$ 15029.93 | Economia: US$ 1737.88
+Carrinho #9 | Usu�rio: 9 | Itens: 10 | Total: US$ 29709.90 | Economia: US$ 1716.44
+Carrinho #76 | Usu�rio: 76 | Itens: 14 | Total: US$ 37629.86 | Economia: US$ 1612.14
+Carrinho #187 | Usu�rio: 187 | Itens: 12 | Total: US$ 10844.88 | Economia: US$ 1589.55
+Carrinho #1 | Usu�rio: 1 | Itens: 12 | Total: US$ 13037.88 | Economia: US$ 1527.07
+Carrinho #137 | Usu�rio: 137 | Itens: 14 | Total: US$ 12442.86 | Economia: US$ 1501.05
+Carrinho #199 | Usu�rio: 199 | Itens: 6 | Total: US$ 28239.94 | Economia: US$ 1438.98
+Carrinho #47 | Usu�rio: 47 | Itens: 13 | Total: US$ 50539.87 | Economia: US$ 1339.96
+Carrinho #73 | Usu�rio: 73 | Itens: 16 | Total: US$ 21807.84 | Economia: US$ 1297.71
+Carrinho #130 | Usu�rio: 130 | Itens: 5 | Total: US$ 30625.95 | Economia: US$ 1297.69
+Carrinho #100 | Usu�rio: 100 | Itens: 7 | Total: US$ 33003.13 | Economia: US$ 1231.21
+Carrinho #90 | Usu�rio: 90 | Itens: 16 | Total: US$ 6059.84 | Economia: US$ 1049.73
+Carrinho #117 | Usu�rio: 117 | Itens: 14 | Total: US$ 10989.86 | Economia: US$ 1004.07
+Carrinho #54 | Usu�rio: 54 | Itens: 5 | Total: US$ 10999.95 | Economia: US$ 1001.40
+Carrinho #178 | Usu�rio: 178 | Itens: 21 | Total: US$ 6785.79 | Economia: US$ 939.39
+Carrinho #200 | Usu�rio: 200 | Itens: 23 | Total: US$ 22694.77 | Economia: US$ 911.23
+Carrinho #60 | Usu�rio: 60 | Itens: 8 | Total: US$ 7649.92 | Economia: US$ 901.53
+Carrinho #173 | Usu�rio: 173 | Itens: 12 | Total: US$ 17785.88 | Economia: US$ 874.37
+Carrinho #19 | Usu�rio: 19 | Itens: 12 | Total: US$ 22142.88 | Economia: US$ 834.75
+Carrinho #152 | Usu�rio: 152 | Itens: 9 | Total: US$ 4119.91 | Economia: US$ 750.20
+Carrinho #133 | Usu�rio: 133 | Itens: 13 | Total: US$ 9559.87 | Economia: US$ 741.17
+Carrinho #184 | Usu�rio: 184 | Itens: 2 | Total: US$ 14015.98 | Economia: US$ 708.48
+Carrinho #144 | Usu�rio: 144 | Itens: 15 | Total: US$ 4269.05 | Economia: US$ 660.48
+Carrinho #64 | Usu�rio: 64 | Itens: 19 | Total: US$ 6032.81 | Economia: US$ 643.79
+Carrinho #153 | Usu�rio: 153 | Itens: 15 | Total: US$ 4309.85 | Economia: US$ 631.39
+Carrinho #69 | Usu�rio: 69 | Itens: 13 | Total: US$ 7185.87 | Economia: US$ 625.32
+Carrinho #116 | Usu�rio: 116 | Itens: 17 | Total: US$ 9141.33 | Economia: US$ 582.79
+Carrinho #181 | Usu�rio: 181 | Itens: 6 | Total: US$ 4707.94 | Economia: US$ 569.62
+Carrinho #8 | Usu�rio: 8 | Itens: 17 | Total: US$ 6337.83 | Economia: US$ 566.51
+Carrinho #17 | Usu�rio: 17 | Itens: 16 | Total: US$ 5531.34 | Economia: US$ 516.40
+Carrinho #70 | Usu�rio: 70 | Itens: 17 | Total: US$ 3794.83 | Economia: US$ 499.21
+Carrinho #141 | Usu�rio: 141 | Itens: 14 | Total: US$ 2991.36 | Economia: US$ 484.65
+Carrinho #128 | Usu�rio: 128 | Itens: 15 | Total: US$ 10236.85 | Economia: US$ 481.45
+Carrinho #109 | Usu�rio: 109 | Itens: 6 | Total: US$ 10089.94 | Economia: US$ 474.39
+Carrinho #20 | Usu�rio: 20 | Itens: 12 | Total: US$ 4711.88 | Economia: US$ 460.47
+Carrinho #28 | Usu�rio: 28 | Itens: 23 | Total: US$ 5944.77 | Economia: US$ 413.40
+Carrinho #97 | Usu�rio: 97 | Itens: 7 | Total: US$ 2013.93 | Economia: US$ 390.51
+Carrinho #66 | Usu�rio: 66 | Itens: 7 | Total: US$ 2295.93 | Economia: US$ 388.52
+Carrinho #23 | Usu�rio: 23 | Itens: 9 | Total: US$ 2499.91 | Economia: US$ 376.04
+Carrinho #129 | Usu�rio: 129 | Itens: 20 | Total: US$ 2246.30 | Economia: US$ 367.51
+Carrinho #49 | Usu�rio: 49 | Itens: 19 | Total: US$ 4208.81 | Economia: US$ 365.06
+Carrinho #89 | Usu�rio: 89 | Itens: 17 | Total: US$ 2458.83 | Economia: US$ 347.82
+Carrinho #93 | Usu�rio: 93 | Itens: 14 | Total: US$ 1809.86 | Economia: US$ 341.09
+Carrinho #125 | Usu�rio: 125 | Itens: 8 | Total: US$ 3364.92 | Economia: US$ 317.11
+Carrinho #170 | Usu�rio: 170 | Itens: 14 | Total: US$ 1829.86 | Economia: US$ 316.97
+Carrinho #134 | Usu�rio: 134 | Itens: 19 | Total: US$ 2056.81 | Economia: US$ 316.05
+Carrinho #115 | Usu�rio: 115 | Itens: 13 | Total: US$ 4526.87 | Economia: US$ 302.91
+Carrinho #82 | Usu�rio: 82 | Itens: 16 | Total: US$ 1974.84 | Economia: US$ 300.30
+Carrinho #80 | Usu�rio: 80 | Itens: 7 | Total: US$ 1504.93 | Economia: US$ 287.00
+Carrinho #29 | Usu�rio: 29 | Itens: 16 | Total: US$ 2359.84 | Economia: US$ 281.96
+Carrinho #5 | Usu�rio: 5 | Itens: 12 | Total: US$ 1467.88 | Economia: US$ 262.08
+Carrinho #162 | Usu�rio: 162 | Itens: 13 | Total: US$ 3236.87 | Economia: US$ 254.55
+Carrinho #163 | Usu�rio: 163 | Itens: 14 | Total: US$ 1494.86 | Economia: US$ 246.71
+Carrinho #79 | Usu�rio: 79 | Itens: 13 | Total: US$ 1575.87 | Economia: US$ 239.37
+Carrinho #34 | Usu�rio: 34 | Itens: 8 | Total: US$ 1479.92 | Economia: US$ 239.14
+Carrinho #131 | Usu�rio: 131 | Itens: 19 | Total: US$ 3702.71 | Economia: US$ 228.62
+Carrinho #156 | Usu�rio: 156 | Itens: 14 | Total: US$ 2643.86 | Economia: US$ 221.07
+Carrinho #182 | Usu�rio: 182 | Itens: 20 | Total: US$ 3411.80 | Economia: US$ 216.35
+Carrinho #147 | Usu�rio: 147 | Itens: 17 | Total: US$ 2102.83 | Economia: US$ 204.69
+Carrinho #65 | Usu�rio: 65 | Itens: 11 | Total: US$ 1717.89 | Economia: US$ 200.11
+Carrinho #126 | Usu�rio: 126 | Itens: 16 | Total: US$ 1105.34 | Economia: US$ 184.43
+Carrinho #74 | Usu�rio: 74 | Itens: 9 | Total: US$ 1562.41 | Economia: US$ 183.19
+Carrinho #142 | Usu�rio: 142 | Itens: 20 | Total: US$ 2675.80 | Economia: US$ 176.73
+Carrinho #161 | Usu�rio: 161 | Itens: 18 | Total: US$ 2339.82 | Economia: US$ 170.87
+Carrinho #58 | Usu�rio: 58 | Itens: 3 | Total: US$ 1212.97 | Economia: US$ 170.20
+Carrinho #3 | Usu�rio: 3 | Itens: 15 | Total: US$ 1794.85 | Economia: US$ 169.08
+Carrinho #43 | Usu�rio: 43 | Itens: 12 | Total: US$ 1689.88 | Economia: US$ 168.69
+Carrinho #185 | Usu�rio: 185 | Itens: 5 | Total: US$ 1404.95 | Economia: US$ 161.78
+Carrinho #62 | Usu�rio: 62 | Itens: 8 | Total: US$ 2851.92 | Economia: US$ 160.69
+Carrinho #31 | Usu�rio: 31 | Itens: 12 | Total: US$ 1268.88 | Economia: US$ 157.88
+Carrinho #25 | Usu�rio: 25 | Itens: 15 | Total: US$ 1228.35 | Economia: US$ 157.52
+Carrinho #113 | Usu�rio: 113 | Itens: 13 | Total: US$ 1624.87 | Economia: US$ 144.42
+Carrinho #135 | Usu�rio: 135 | Itens: 13 | Total: US$ 889.87 | Economia: US$ 138.14
+Carrinho #127 | Usu�rio: 127 | Itens: 14 | Total: US$ 1023.86 | Economia: US$ 136.38
+Carrinho #92 | Usu�rio: 92 | Itens: 8 | Total: US$ 809.92 | Economia: US$ 129.75
+Carrinho #104 | Usu�rio: 104 | Itens: 27 | Total: US$ 1120.23 | Economia: US$ 129.70
+Carrinho #108 | Usu�rio: 108 | Itens: 4 | Total: US$ 1062.96 | Economia: US$ 127.33
+Carrinho #7 | Usu�rio: 7 | Itens: 14 | Total: US$ 1229.86 | Economia: US$ 126.21
+Carrinho #145 | Usu�rio: 145 | Itens: 16 | Total: US$ 1153.84 | Economia: US$ 123.74
+Carrinho #77 | Usu�rio: 77 | Itens: 5 | Total: US$ 999.95 | Economia: US$ 119.36
+Carrinho #189 | Usu�rio: 189 | Itens: 8 | Total: US$ 1289.92 | Economia: US$ 117.35
+Carrinho #98 | Usu�rio: 98 | Itens: 22 | Total: US$ 1010.78 | Economia: US$ 113.80
+Carrinho #57 | Usu�rio: 57 | Itens: 9 | Total: US$ 1269.91 | Economia: US$ 111.70
+Carrinho #35 | Usu�rio: 35 | Itens: 14 | Total: US$ 618.86 | Economia: US$ 111.65
+Carrinho #177 | Usu�rio: 177 | Itens: 9 | Total: US$ 2399.91 | Economia: US$ 100.43
+Carrinho #42 | Usu�rio: 42 | Itens: 16 | Total: US$ 626.84 | Economia: US$ 95.67
+Carrinho #193 | Usu�rio: 193 | Itens: 20 | Total: US$ 655.80 | Economia: US$ 90.34
+Carrinho #158 | Usu�rio: 158 | Itens: 11 | Total: US$ 1169.89 | Economia: US$ 90.21
+Carrinho #26 | Usu�rio: 26 | Itens: 16 | Total: US$ 1111.84 | Economia: US$ 90.20
+Carrinho #101 | Usu�rio: 101 | Itens: 12 | Total: US$ 1551.88 | Economia: US$ 87.10
+Carrinho #172 | Usu�rio: 172 | Itens: 11 | Total: US$ 574.89 | Economia: US$ 79.11
+Carrinho #38 | Usu�rio: 38 | Itens: 5 | Total: US$ 409.95 | Economia: US$ 75.34
+Carrinho #61 | Usu�rio: 61 | Itens: 14 | Total: US$ 642.86 | Economia: US$ 71.28
+Carrinho #120 | Usu�rio: 120 | Itens: 8 | Total: US$ 879.92 | Economia: US$ 65.03
+Carrinho #75 | Usu�rio: 75 | Itens: 6 | Total: US$ 346.44 | Economia: US$ 60.42
+Carrinho #146 | Usu�rio: 146 | Itens: 18 | Total: US$ 562.82 | Economia: US$ 56.76
+Carrinho #159 | Usu�rio: 159 | Itens: 16 | Total: US$ 451.84 | Economia: US$ 54.92
+Carrinho #67 | Usu�rio: 67 | Itens: 4 | Total: US$ 443.96 | Economia: US$ 54.36
+Carrinho #4 | Usu�rio: 4 | Itens: 7 | Total: US$ 689.93 | Economia: US$ 53.12
+Carrinho #63 | Usu�rio: 63 | Itens: 8 | Total: US$ 511.92 | Economia: US$ 51.88
+Carrinho #176 | Usu�rio: 176 | Itens: 7 | Total: US$ 269.93 | Economia: US$ 51.76
+Carrinho #53 | Usu�rio: 53 | Itens: 6 | Total: US$ 1079.94 | Economia: US$ 51.75
+Carrinho #174 | Usu�rio: 174 | Itens: 23 | Total: US$ 752.77 | Economia: US$ 51.38
+Carrinho #119 | Usu�rio: 119 | Itens: 4 | Total: US$ 299.96 | Economia: US$ 47.80
+Carrinho #175 | Usu�rio: 175 | Itens: 3 | Total: US$ 349.97 | Economia: US$ 47.09
+Carrinho #136 | Usu�rio: 136 | Itens: 7 | Total: US$ 405.93 | Economia: US$ 45.48
+Carrinho #208 | Usu�rio: 208 | Itens: 5 | Total: US$ 304.95 | Economia: US$ 44.83
+Carrinho #112 | Usu�rio: 112 | Itens: 12 | Total: US$ 384.88 | Economia: US$ 41.46
+Carrinho #154 | Usu�rio: 154 | Itens: 8 | Total: US$ 573.92 | Economia: US$ 41.38
+Carrinho #150 | Usu�rio: 150 | Itens: 8 | Total: US$ 1029.42 | Economia: US$ 40.27
+Carrinho #124 | Usu�rio: 124 | Itens: 15 | Total: US$ 469.85 | Economia: US$ 35.89
+Carrinho #15 | Usu�rio: 15 | Itens: 5 | Total: US$ 249.95 | Economia: US$ 35.27
+Carrinho #32 | Usu�rio: 32 | Itens: 6 | Total: US$ 187.44 | Economia: US$ 34.24
+Carrinho #94 | Usu�rio: 94 | Itens: 19 | Total: US$ 345.81 | Economia: US$ 33.66
+Carrinho #164 | Usu�rio: 164 | Itens: 12 | Total: US$ 227.88 | Economia: US$ 31.95
+Carrinho #68 | Usu�rio: 68 | Itens: 11 | Total: US$ 252.89 | Economia: US$ 31.84
+Carrinho #91 | Usu�rio: 91 | Itens: 6 | Total: US$ 259.94 | Economia: US$ 31.77
+Carrinho #87 | Usu�rio: 87 | Itens: 8 | Total: US$ 309.92 | Economia: US$ 31.54
+Carrinho #72 | Usu�rio: 72 | Itens: 14 | Total: US$ 322.86 | Economia: US$ 31.09
+Carrinho #39 | Usu�rio: 39 | Itens: 4 | Total: US$ 279.96 | Economia: US$ 30.72
+Carrinho #140 | Usu�rio: 140 | Itens: 9 | Total: US$ 643.91 | Economia: US$ 29.20
+Carrinho #171 | Usu�rio: 171 | Itens: 6 | Total: US$ 219.94 | Economia: US$ 28.13
+Carrinho #84 | Usu�rio: 84 | Itens: 8 | Total: US$ 569.92 | Economia: US$ 27.37
+Carrinho #151 | Usu�rio: 151 | Itens: 15 | Total: US$ 247.85 | Economia: US$ 25.46
+Carrinho #81 | Usu�rio: 81 | Itens: 15 | Total: US$ 242.85 | Economia: US$ 25.44
+Carrinho #14 | Usu�rio: 14 | Itens: 10 | Total: US$ 209.90 | Economia: US$ 25.31
+Carrinho #160 | Usu�rio: 160 | Itens: 4 | Total: US$ 164.96 | Economia: US$ 22.30
+Carrinho #88 | Usu�rio: 88 | Itens: 6 | Total: US$ 149.94 | Economia: US$ 21.81
+Carrinho #10 | Usu�rio: 10 | Itens: 6 | Total: US$ 152.44 | Economia: US$ 21.10
+Carrinho #166 | Usu�rio: 166 | Itens: 3 | Total: US$ 129.97 | Economia: US$ 21.00
+Carrinho #16 | Usu�rio: 16 | Itens: 8 | Total: US$ 384.92 | Economia: US$ 20.22
+Carrinho #118 | Usu�rio: 118 | Itens: 15 | Total: US$ 158.85 | Economia: US$ 17.71
+Carrinho #102 | Usu�rio: 102 | Itens: 10 | Total: US$ 171.90 | Economia: US$ 16.77
+Carrinho #206 | Usu�rio: 206 | Itens: 8 | Total: US$ 229.92 | Economia: US$ 16.66
+Carrinho #85 | Usu�rio: 85 | Itens: 6 | Total: US$ 179.94 | Economia: US$ 16.06
+Carrinho #2 | Usu�rio: 2 | Itens: 7 | Total: US$ 139.93 | Economia: US$ 14.23
+Carrinho #105 | Usu�rio: 105 | Itens: 9 | Total: US$ 147.91 | Economia: US$ 13.70
+Carrinho #148 | Usu�rio: 148 | Itens: 7 | Total: US$ 71.93 | Economia: US$ 13.38
+Carrinho #188 | Usu�rio: 188 | Itens: 8 | Total: US$ 184.92 | Economia: US$ 13.37
+Carrinho #56 | Usu�rio: 56 | Itens: 3 | Total: US$ 121.97 | Economia: US$ 12.85
+Carrinho #96 | Usu�rio: 96 | Itens: 7 | Total: US$ 104.93 | Economia: US$ 12.42
+Carrinho #22 | Usu�rio: 22 | Itens: 8 | Total: US$ 307.92 | Economia: US$ 11.45
+Carrinho #37 | Usu�rio: 37 | Itens: 7 | Total: US$ 129.93 | Economia: US$ 10.61
+Carrinho #106 | Usu�rio: 106 | Itens: 3 | Total: US$ 104.97 | Economia: US$ 10.59
+Carrinho #40 | Usu�rio: 40 | Itens: 10 | Total: US$ 263.90 | Economia: US$ 10.26
+Carrinho #36 | Usu�rio: 36 | Itens: 9 | Total: US$ 98.91 | Economia: US$ 9.54
+Carrinho #107 | Usu�rio: 107 | Itens: 3 | Total: US$ 129.97 | Economia: US$ 9.05
+Carrinho #48 | Usu�rio: 48 | Itens: 9 | Total: US$ 110.91 | Economia: US$ 9.02
+Carrinho #168 | Usu�rio: 168 | Itens: 6 | Total: US$ 99.94 | Economia: US$ 8.01
+Carrinho #99 | Usu�rio: 99 | Itens: 10 | Total: US$ 124.40 | Economia: US$ 6.44
+Carrinho #186 | Usu�rio: 186 | Itens: 8 | Total: US$ 364.92 | Economia: US$ 5.20
+Carrinho #121 | Usu�rio: 121 | Itens: 10 | Total: US$ 83.90 | Economia: US$ 4.49
+Carrinho #203 | Usu�rio: 203 | Itens: 5 | Total: US$ 50.95 | Economia: US$ 4.41
+Carrinho #103 | Usu�rio: 103 | Itens: 11 | Total: US$ 35.89 | Economia: US$ 4.10
+Carrinho #55 | Usu�rio: 55 | Itens: 4 | Total: US$ 42.96 | Economia: US$ 3.04
+Carrinho #13 | Usu�rio: 13 | Itens: 6 | Total: US$ 16.54 | Economia: US$ 1.57
+Carrinho #139 | Usu�rio: 139 | Itens: 3 | Total: US$ 36.97 | Economia: US$ 0.80
+Carrinho #157 | Usu�rio: 157 | Itens: 2 | Total: US$ 6.98 | Economia: US$ 0.33
+Carrinho #180 | Usu�rio: 180 | Itens: 3 | Total: US$ 6.97 | Economia: US$ 0.10
+Soma de discountedTotal: US$ 3456709.58
+Quantidade de carrinhos por totalProducts:
+2 produtos distintos: 58 carrinhos
+3 produtos distintos: 36 carrinhos
+4 produtos distintos: 33 carrinhos
+5 produtos distintos: 42 carrinhos
+6 produtos distintos: 39 carrinhos
+Maior carrinho: Carrinho #30 | Usu�rio: 30 | Itens: 15 | Total: US$ 186110.85
